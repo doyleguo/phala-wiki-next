@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Compute"
-  url = "/en-us/mine/khala-mining/introduction/"
+  url = "/en-us/compute/basic-info/introduction/"
   weight = 30
 
 [[main]]
@@ -96,22 +96,22 @@
 #   url = "/build/archived/"
 #   weight = 9000
 
-[[mine]]
+[[compute]]
   name = "Basic info"
-  identifier = "khala-mining"
-  url = "/mine/khala-mining/"
+  identifier = "basic-info"
+  url = "/compute/basic-info/"
   weight = 1000
   
-[[mine]]
+[[compute]]
   name = "Run Workers on Phala"
   identifier = "phala-worker"
-  url = "/mine/phala-worker/"
+  url = "/compute/phala-worker/"
   weight = 2000
 
-[[mine]]
+[[compute]]
   name = "Run Workers on Khala"
   identifier = "khala-worker"
-  url = "/mine/solo/"
+  url = "/compute/solo/"
   weight = 3000
 
 [[maintain]]
